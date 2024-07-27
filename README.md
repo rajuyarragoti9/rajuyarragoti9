@@ -13,7 +13,8 @@ I Am Full Stack Developer
 
 
 # 📊 Leetcode Stats:
-![](https://leetcard.raju_cs/leetcode?site=cn)
+
+![](https://leetcard.jacoblin.cool/raju_cs?theme=dark&font=Noto%20Sans%20Grantha&ext=activity)
 
 
 # 💻 Tech Stack:
